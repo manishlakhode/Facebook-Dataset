@@ -85,3 +85,8 @@ Photo posts dominate in frequency, but videos drive stronger engagement.
 📜 License
 
 This project is licensed under the MIT License.
+
+👤 Author and contact
+
+Manish Lakhode 
+For questions or contributions, please get in touch with manishlakhode9865@gmail.com
