@@ -54,7 +54,7 @@ This repository contains the **Facebook Marketplace Dataset (Live Sellers in Tha
 
 ## 🚀 How to Use
 
-1. [Clone the repository]()
+1. **Clone the repository**
 ```bash
 git clone https://github.com/manishlakhode/Facebook-Dataset.git
 cd Facebook-Dataset
@@ -71,22 +71,27 @@ pip install pandas matplotlib seaborn scikit-learn
 ```bash
 jupyter notebook/facebook_marketplace_analysis_structured.ipynb
 ```
+---
 
 📈 Key Insights
+```bash
+1. Evening posts tend to maximize reactions.
 
-Evening posts tend to maximize reactions.
+2. Engagement metrics (reactions, comments, shares) are highly correlated.
 
-Engagement metrics (reactions, comments, shares) are highly correlated.
+3. Three clusters of posts exist: low, medium, and high engagement.
 
-Three clusters of posts exist: low, medium, and high engagement.
+4. Photo posts dominate in frequency, but videos drive stronger engagement.
+```
+---
 
-Photo posts dominate in frequency, but videos drive stronger engagement.
-
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License.
 
-👤 Author and contact
+---
+
+👤 **Author and contact**
 
 Manish Lakhode, 
 For questions or contributions, please get in touch with manishlakhode9865@gmail.com
