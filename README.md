@@ -52,30 +52,27 @@ This repository contains the **Facebook Marketplace Dataset (Live Sellers in Tha
 
 ---
 
-
 ## 🚀 How to Use
 
-## 🚀 How to Use
+1. [Clone the repository]()
+```bash
+git clone https://github.com/manishlakhode/Facebook-Dataset.git
+cd Facebook-Dataset
+```
+ 
 
-- [1. Clone the repository]()
-  ```bash
-  git clone https://github.com/manishlakhode/Facebook-Dataset.git
-  cd Facebook-Dataset
-2. Install dependencies
+2. **Install dependencies**
 
-bash
-Copy
-Edit
+```bash
 pip install pandas matplotlib seaborn scikit-learn
-3. Run the notebook
+```
 
-bash
-Copy
-Edit
-jupyter notebook notebook
+3. **Run the notebook**
+```bash
+jupyter notebook/facebook_marketplace_analysis_structured.ipynb
+```
 
-
-4. 📈 Key Insights
+📈 Key Insights
 
 Evening posts tend to maximize reactions.
 
@@ -88,7 +85,3 @@ Photo posts dominate in frequency, but videos drive stronger engagement.
 📜 License
 
 This project is licensed under the MIT License.
-
-👤 Author
-
-Manish Lakhode
