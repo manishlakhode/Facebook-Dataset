@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 
 👤 Author and contact
 
-Manish Lakhode 
+Manish Lakhode, 
 For questions or contributions, please get in touch with manishlakhode9865@gmail.com
