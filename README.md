@@ -55,18 +55,23 @@ This repository contains the **Facebook Marketplace Dataset (Live Sellers in Tha
 
 ## 🚀 How to Use
 
+## 🚀 How to Use
+
 - [1. Clone the repository]()
   ```bash
   git clone https://github.com/manishlakhode/Facebook-Dataset.git
   cd Facebook-Dataset
-
 2. Install dependencies
 
+bash
+Copy
+Edit
 pip install pandas matplotlib seaborn scikit-learn
-
-
 3. Run the notebook
 
+bash
+Copy
+Edit
 jupyter notebook notebook
 
 
